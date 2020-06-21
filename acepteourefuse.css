@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500');
+  *{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+  body{
+     background-image:url(img/fatiaf.png);
+      
+  }
+  form input{
+    margin-top: 10px;
+    font-size: 14px;
+    background-color: rgb(218, 216, 216);
+    color: gray;
+    padding: 12px 40px;
+    width: 20%;
+    height: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-family: monospace;
+  }
+  form button{
+    margin-top: 10px;
+    font-size: 14px;
+    background-color: rgb(218, 216, 216);
+    color: rgb(218, 216, 216);
+    padding: 12px 40px;
+    width: 20%;
+    height: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+   
+  }
+  
